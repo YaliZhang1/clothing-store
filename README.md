@@ -26,3 +26,8 @@ We worked with 6 people on a small ecommerce store. When you work on a project t
 - Better use of the DRY principle
 - Removing the innerHTML methods for better security
 - SEO and pagespeed improvements
+
+## 🛠️ How to Run Locally
+- git clone https://github.com/YaliZhang1/clothing-store.git
+- npm install
+- npm run dev
