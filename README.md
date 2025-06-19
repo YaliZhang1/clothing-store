@@ -6,7 +6,7 @@
 
 School project to start working with Scrum and Jest.
 
-We worked with 6 people on a small ecommerce store. When you work on a project this size you need to work with a management framework, we used Scrum. We used sprints and tools like Asana or Notion to keep track of tasks and make sure everyone was on the same page.
+We worked with 6 people on a small e-commerce store. When you work on a project this size you need to work with a management framework, we used Scrum. We used sprints and tools like Asana or Notion to keep track of tasks and make sure everyone was on the same page.
 
 ## How it works
 
